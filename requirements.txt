@@ -7,6 +7,6 @@ scipy
 statsmodels
 kagglehub
 seaborn
-warnings
-os
+#warnings
+#os
 -e .
