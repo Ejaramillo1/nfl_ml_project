@@ -6,4 +6,7 @@ scikit-learn
 scipy
 statsmodels
 kagglehub
+seaborn
+warnings
+os
 -e .
